@@ -1,4 +1,4 @@
-# Selenium Web Scraper
+# Selenium WebScraper
 
 This project is a web scraper implemented using Selenium WebDriver. The scraper navigates to a specific URL, clicks on a "Learn More" link within a specified div, extracts data from the linked page, and saves the data to a log file.
 
